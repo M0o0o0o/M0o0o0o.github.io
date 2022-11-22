@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "HTTP vs HTTPS"
-date:   2022-11-22 15:10:00 +0900
+title: "HTTP vs HTTPS"
+date: 2022-11-22 15:10:00 +0900
 categories: web
 ---
 
