@@ -2,7 +2,7 @@
 layout: post
 title:  "대칭키 vs 비대칭키"
 date:   2022-11-22 14:37:29 +0900
-categories: 보안
+categories: secure
 ---
 
 > 대칭키와 비대칭키에 대해 알아보기 전에 암호화란 무엇이고, 어떤 방식으로 이뤄지는 지 알아보자.
