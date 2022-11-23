@@ -2,7 +2,7 @@
 layout: post
 title:  "@PostConstruct, @PreDestroy"
 date:   2022-11-21 19:31:29 +0900
-categories: 
+categories: Spring
 ---
 
 ## 빈 생명주기
