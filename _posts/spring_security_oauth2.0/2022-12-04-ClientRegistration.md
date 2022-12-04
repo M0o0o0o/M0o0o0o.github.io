@@ -25,7 +25,7 @@ categories: Spring-Security-OAuth2.0
 4. OAuth2ClientProperties에 바인딩 되어 있는 속성의 값은 **<span style="color:red;">ClientRegistration</span>**클래스픠 필드에 저장된다.
 5. OAuth2Client는 ClientRegistration를 참조해서 권한부여 요청을 위한 매개변수를 구성하고 인가서버와 통신한다.
 
-<img src="/public/img/1204_clientregistration.png" width="500" object-fit="cover" alt="" />
+<img src="/public/img/1204_clientregistration.png" width="900" object-fit="cover" alt="" />
 
 ### references
 [스프링 시큐리티 OAuth2 - Spring Boot 기반으로 개발하는 Spring Security OAuth2](https://www.inflearn.com/course/정수원-스프링-시큐리티)
