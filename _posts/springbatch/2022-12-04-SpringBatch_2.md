@@ -98,5 +98,4 @@ public class HelloJobConfiguration {
 > 위의 코드는 JobBuilderFactory와 StepBuilderFactory를 활용해 
 > 배치 작업에 필요한 Job, Step 등을 생성해 빈으로 등록한다.
 
-<img src="/public/img/1204_batch_stream.png" width="" height="" alt="" />
-
+<img src="/public/img/1204_batch_stream.png" width="500" object-fit="cover" alt="" />
