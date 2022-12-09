@@ -27,7 +27,7 @@ categories: SpringBatch
 ### Step의 계층 구조
 - 위의 4개의 구현체 중 TaskletStep의 계층 구조를 살펴보자.
 
-<img src="/public/img/1209_tasklet.png" width="900" object-fit="cover" alt="" />
+<img src="/public/img/1209_tasklet.png" width="400" object-fit="cover" alt="" />
 
 > Step의 각 구현체들은 모두 AbstractStep을 상속받고 있으면 각 Step에 맞게 구현하고 있다.
 
