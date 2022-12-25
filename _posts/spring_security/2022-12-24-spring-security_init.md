@@ -54,3 +54,7 @@ categories: spring-security
 > 상황에 맞게 커스텀해야 한다. 
 
 ---
+
+### references
+[스프링 시큐리티 공식문서](https://docs.spring.io/spring-security/reference/index.html)
+[스프링 시큐리티 - 인프런](https://www.inflearn.com/course/코어-스프링-시큐리티/dashboard)
