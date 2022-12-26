@@ -162,3 +162,6 @@ Spring Security에서 Authentication는 사용자의 인증 정보를 저장하�
 <img width="1267" alt="스크린샷 2022-12-25 오후 1 37 37" src="https://user-images.githubusercontent.com/121086012/209457095-4f029557-f82f-4679-9fda-97a4d4b9676d.png">
 
 
+### references
+[스프링 시큐리티 공식문서](https://docs.spring.io/spring-security/reference/index.html)
+[스프링 시큐리티 - 인프런](https://www.inflearn.com/course/코어-스프링-시큐리티/dashboard)
