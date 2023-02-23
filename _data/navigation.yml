@@ -1,9 +1,9 @@
 # main links
 main:
-   - title: "About"
-     url: https://m0o0o0o.github.io/about/
-   - title: "Sample Posts"
-     url: /categories/
+#   - title: "About"
+#     url: https://m0o0o0o.github.io/about/
+   - title: "Category"
+     url: /study/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
