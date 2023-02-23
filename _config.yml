@@ -24,7 +24,7 @@ description              : "~~"
 url                      : "https://m0o0o0o.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/radish.png"
+teaser                   :
 logo                     : "/assets/images/radish.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
