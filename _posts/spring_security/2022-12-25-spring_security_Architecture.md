@@ -1,7 +1,8 @@
 ---
 title:  "스프링 시큐리티의 아키텍처"
-categories: spring-security
-tags: spring-security  
+categories:
+- spring security
+
 toc: true
 toc_sticky: true
 toc_label: "Contents"

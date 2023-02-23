@@ -1,7 +1,8 @@
 ---
 title:  "Authority(Spring Security)"
-categories: spring-security
-tags: spring-security  
+categories:
+- spring security
+  
 toc: true
 toc_sticky: true
 toc_label: "Contents"

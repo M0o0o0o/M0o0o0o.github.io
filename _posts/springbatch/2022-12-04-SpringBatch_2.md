@@ -1,6 +1,8 @@
 ---
 title:  "스프링 배치 초기화 과정"
-categories: spring-batch
+categories:
+- spring batch
+
 toc: true
 toc_sticky: true
 toc_label: "Contents"

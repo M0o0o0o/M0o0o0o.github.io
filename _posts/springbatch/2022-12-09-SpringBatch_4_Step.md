@@ -1,6 +1,8 @@
 ---
 title: "스프링 배치 Step"
-categories: spring-batch
+categories:
+- spring batch
+
 toc: true
 toc_sticky: true
 toc_label: "Contents"
@@ -28,7 +30,8 @@ toc_label: "Contents"
 ### Step의 계층 구조
 - 위의 4개의 구현체 중 TaskletStep의 계층 구조를 살펴보자.
 
-<img src="/public/img/1209_tasklet.png" width="400" object-fit="cover" alt="" />
+![image](https://user-images.githubusercontent.com/121086012/220850649-8506515c-3318-44f6-ace7-4dab84a2d4dc.png)
+
 
 > Step의 각 구현체들은 모두 AbstractStep을 상속받고 있으면 각 Step에 맞게 구현하고 있다.
 
@@ -128,21 +131,21 @@ public class StepExecutionTest {
 
 #### 첫 번째 실행
 
-<img src="/public/img/1209_taskletTest_1.png" width="900" object-fit="cover" alt="" />
+<img width="1550" alt="1209_taskletTest_1" src="https://user-images.githubusercontent.com/121086012/220850827-029df9ba-3ce8-4724-8fb7-9e076bcf80af.png">
 
 > 실행 결과를 보면 1, 2번째 Step은 실행됐지만 2번째 Step에서 예외가 마지막 Step이 실행되지 못하고 종료됐다. 
 > 그럼 BATCH_STEP_EXECUTION 테이블의 첫 번째와 두 번째 Step만 잘 insert 됐는지 확인하자.
 
-<img src="/public/img/1209_taskletTest_2.png" width="900" object-fit="cover" alt="" />
+<img width="1254" alt="1209_taskletTest_2" src="https://user-images.githubusercontent.com/121086012/220850773-a65ac2d4-24a5-498c-979d-46863e016b85.png">
 
 
 #### 두 번째 실행
 
-<img src="/public/img/1209_taskletTest_3.png" width="900" object-fit="cover" alt="" />
+<img width="1921" alt="1209_taskletTest_3" src="https://user-images.githubusercontent.com/121086012/220850779-493391e9-791f-402d-a63f-15840c1752ed.png">
 
 > 두 번째 실행 결과를 보면 2, 3번째 Step이 재실행된 걸 확인할 수 있다.
 
-<img src="/public/img/1209_taskletTest_4.png" width="900" object-fit="cover" alt="" />
+  <img width="981" alt="1209_taskletTest_4" src="https://user-images.githubusercontent.com/121086012/220850787-ea838c7f-3cae-4a5d-a779-7c6a0d745ee5.png">
 
 ---
 

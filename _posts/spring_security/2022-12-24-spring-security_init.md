@@ -1,7 +1,7 @@
 ---
 title: "스프링 시큐리티란?"
-categories: spring-security
-tags: spring-security  
+categories: 
+  - spring security
 toc: true
 toc_sticky: true
 toc_label: "Contents"
