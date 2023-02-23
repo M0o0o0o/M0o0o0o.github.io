@@ -2,8 +2,8 @@
 main:
 #   - title: "About"
 #     url: https://m0o0o0o.github.io/about/
-   - title: "Category"
-     url: /study/
+   - title: "Study"
+     url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
