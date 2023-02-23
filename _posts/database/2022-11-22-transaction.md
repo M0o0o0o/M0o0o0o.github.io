@@ -1,7 +1,7 @@
 ---
 title: "트랜잭션 격리 수준"
 header:
-    teaser: /asset/images/database.png
+    teaser: /assets/images/database.png
 categories: Database
 tags: 
   - Database
