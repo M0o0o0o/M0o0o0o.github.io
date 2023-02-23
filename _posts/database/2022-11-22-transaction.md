@@ -1,10 +1,13 @@
 ---
 title: "트랜잭션 격리 수준"
 header:
-    teaser: "/asset/images/database.png"
+    teaser: /asset/images/database.png
 categories: Database
 tags: 
   - Database
+toc: true
+toc_sticky: true
+toc_label: "Contents"
 ---
 
 
